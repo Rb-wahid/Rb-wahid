@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Contact Me
+[<img align="left" alt="Rb-wahid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rb-wahid/)
+[<img align="left" alt="Rb_wahid | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />](https://twitter.com/Rb_wahid)
+[<img align="left" alt="Rb_wahid | Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codewars.svg" />](https://github.com/Rb-wahid)
+
+
+<br><br>
+### Stats
+<img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rb-wahid&show_icons=true&hide_border=true" /> <br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rb-wahid)](https://github.com/Rb-wahid)
