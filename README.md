@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 <br><br>
 ### Stats
-<img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rb-wahid&show_icons=true&hide_border=true" /> <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rb-wahid)](https://github.com/Rb-wahid)
+<img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rb-wahid&theme=highcontrast&show_icons=true&hide_border=true" /> <br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rb-wahid&theme=highcontrast&show_icons=true&hide_border=true)](https://github.com/Rb-wahid)
